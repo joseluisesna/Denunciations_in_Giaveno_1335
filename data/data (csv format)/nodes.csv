@@ -1,0 +1,352 @@
+"id","label","sex","dead","occupation_type","origin_or_residence","waldensian_master"
+"P0002","Villelmus","m",0,"churchperson","Coazze",0
+"P0003","Iohannes de Villelmina","m",0,NA,"Coazze",0
+"P0004","(filius Iohannis de Villelmina) de Villelmina","m",0,NA,"Coazze",0
+"P0005","Rosa Put","f",0,NA,"Coazze",0
+"P0006","Stephanus Put","m",0,NA,"Coazze",0
+"P0007","Iustus Garola","m",0,NA,"Coazze",0
+"P0008","Iohannes de Bergerii","m",0,NA,NA,0
+"P0009","Rollandus Put","m",0,NA,NA,0
+"P0010","Iohannes de Brandolo","m",0,NA,"Brandolum",0
+"P0013","Nicolaus","m",0,"churchperson","Valgioie",0
+"P0014","Iohannes de la Mota","m",0,NA,"Valgioie",0
+"P0015","Iohanna","f",0,NA,"Valgioie",0
+"P0016","Micheletus de Colonbo","m",0,NA,NA,0
+"P0017","Peroneta","f",0,NA,"Lanslevillard",0
+"P0018","Franciscus de Petra","m",0,NA,NA,0
+"P0019","Bruna de Valle Iudea","f",0,NA,"Paschero",0
+"P0020","Marguerita","f",0,NA,"Giaveno",0
+"P0021","Martinus de Perreta","m",0,NA,"Giaveno",0
+"P0022","Iohannes Rupphini","m",0,NA,"Giaveno",0
+"P0023","Iohanna Ruppha","f",0,NA,"Paschero",0
+"P0024","Michael de Catelono","m",0,NA,NA,0
+"P0025","(homo de Buffa)","m",0,NA,"Buffa",0
+"P0026","(mulier de Buffa)","f",0,NA,"Buffa",0
+"P0027","(quidam de Lecio) de Lecio","m",0,NA,"Paschero",0
+"P0028","Bonerius Mulinerii","m",0,NA,NA,0
+"P0029","Hugo Mulinerii","m",0,NA,NA,0
+"P0031","Iohannes de Briqueyrasio","m",0,"churchperson","Moncenisio",0
+"P0032","Andreas Sacherii","m",0,NA,"Giaveno",0
+"P0033","Nicola","f",0,NA,"Giaveno",0
+"P0034","Iohanna Pontera","f",0,NA,"Giaveno",0
+"P0035","Michael","m",0,"churchperson","Giaveno",0
+"P0036","Agnessona Domenii","f",1,NA,"Buffa",0
+"P0037","Vincentius Carbonerii","m",0,NA,"Buffa",0
+"P0038","Petrus Cominus","m",0,NA,NA,0
+"P0039","Brunetus de Rosseto","m",0,NA,"Buffa",0
+"P0040","Petrus de Rosseto","m",0,NA,"Buffa",0
+"P0041","Bernardus de Rosseto","m",0,NA,"Buffa",0
+"P0042","Agnessona de Rosseto","f",0,NA,"Buffa",0
+"P0043","Iohannes de Bonaudo","m",0,NA,"Buffa",0
+"P0044","Reymonda","f",0,NA,"Giaveno",0
+"P0045","Aymonetus de Bonaudo","m",0,NA,NA,0
+"P0046","Iohannes Beç","m",0,NA,NA,0
+"P0047","Agnessona","f",0,NA,"Giaveno",0
+"P0048","Petrus Germane","m",0,NA,NA,0
+"P0049","Bonissetus de Covaciis","m",0,"manual worker","Giaveno",0
+"P0051","Palmeronus Goytrati","m",0,"dissident minister","Buffa",0
+"P0053","Iohannes Gauterii","m",0,"dissident minister","Giaveno",0
+"P0054","(filia Marguerite Perrete)","f",0,NA,"Giaveno",0
+"P0055","Petrus Rupphini","m",0,NA,"Giaveno",0
+"P0056","(soror Petri Rupphini) Rupphini","f",0,NA,"Giaveno",0
+"P0057","Petrus Truchy","m",0,NA,"Folatone",0
+"P0058","Bellona","f",0,NA,"Coazze",0
+"P0059","Iacobus Mocheti","m",0,NA,"Coazze",0
+"P0060","Petrus Mocheti","m",0,NA,"Coazze",0
+"P0061","Matheuda","f",0,NA,"Coazze",0
+"P0062","Hugo de Coazze","m",1,NA,"Coazze",0
+"P0063","(homo ductus ad Follatonum)","m",0,NA,NA,0
+"P0064","(homo ductus ad Follatonum)","m",0,NA,NA,0
+"P0065","Anselmus de Perrino","m",0,NA,"Folatone",0
+"P0066","Peronetus Mocheti","m",0,NA,"Coazze",0
+"P0067","Boxius Moscheti","m",0,NA,"Coazze",0
+"P0068","Aymonetus Moscheti","m",0,NA,"Coazze",0
+"P0069","Marguerita","f",0,NA,"Folatone",0
+"P0070","Iuliana","f",0,NA,"Folatone",0
+"P0071","Petrus Perrino","m",0,NA,NA,0
+"P0072","Iacometa","f",0,NA,"Folatone",0
+"P0073","Iohannes Rogerii","m",0,NA,NA,0
+"P0075","Iohannes Mathei","m",0,NA,"Giaveno",0
+"P0076","Martinus Ysabellanus","m",0,NA,NA,0
+"P0077","Villelmus Gisilbertus","m",0,NA,NA,0
+"P0078","Melquyotus Vauterii","m",0,NA,NA,0
+"P0079","Petrus Chichibaudi","m",0,NA,"Giaveno",0
+"P0080","Hugonetus de Molario","m",0,"official","Mollar",0
+"P0081","Villelmus Peronello","m",0,NA,NA,0
+"P0082","Andreas de Monte Meliano","m",0,NA,"Montmélian",0
+"P0083","Iohannes Dudricis","m",0,NA,"Buffa",0
+"P0084","Hendrietus Dudricis","m",1,NA,NA,0
+"P0085","(filius Michaelis Luchete)","m",0,NA,"Buffa",0
+"P0086","Michael Luchete","m",0,NA,NA,0
+"P0088","Henricus Bonini","m",0,NA,NA,0
+"P0089","Aymonetus Mulinerii","m",1,NA,"Villanova",0
+"P0090","Peronetus Manduca","m",0,NA,"Giaveno",0
+"P0091","Agnexona","f",0,NA,NA,0
+"P0092","Aymonetus de Platea","m",0,NA,NA,0
+"P0093","Brutinus","m",0,"servant",NA,0
+"P0094","Villelmetus Domenicus","m",0,NA,"Villanova",0
+"P0095","Perrotus Baronus","m",0,NA,NA,0
+"P0097","Aleysina","f",0,NA,NA,0
+"P0098","Ermengona","f",0,NA,"Pinasca",0
+"P0099","Iohannes Pencacii","m",0,NA,"Pinasca",0
+"P0100","Peyretus Chavey","m",0,NA,NA,0
+"P0103","Humbertus de Prato Ialato","m",0,NA,"Dubbione",0
+"P0104","Agnexia Boneta","f",0,NA,"Dubbione",0
+"P0105","Villelminus de Oddo","m",0,NA,"Buffa",0
+"P0106","Marguerita de Prato Ialato","f",0,"craftsman","Buffa",0
+"P0107","Petrus de Collegio","m",0,NA,"Buffa",0
+"P0108","Petrus de Boteto","m",0,NA,NA,0
+"P0109","Iohannetus Vachet","m",0,NA,"Coazze",0
+"P0110","Iohannes Trippa","m",0,NA,NA,0
+"P0111","Domenicus Mulinerii","m",0,NA,NA,0
+"P0112","Agnexona Ficheta","f",0,NA,NA,0
+"P0113","Iohannes Martini","m",0,NA,"Giaveno",0
+"P0114","(uxor Iohannis Martini)","f",0,NA,NA,0
+"P0115","Iacometa","f",0,NA,NA,0
+"P0116","Iohannes de Castaygno","m",0,NA,"Giaveno",0
+"P0117","Iohannes Scapiner","m",0,NA,NA,0
+"P0118","(claudus)","m",0,NA,"Buffa",0
+"P0119","Iohannes de Hugonino de Giaveno","m",0,NA,"Giaveno",0
+"P0121","Philiponus","m",0,"craftsman","Giaveno",0
+"P0122","(soror uxoris Henrici Bonini)","f",0,NA,NA,0
+"P0123","Petrus Baronus","m",0,NA,NA,0
+"P0124","Iacobus Filioli","m",0,NA,"Villanova",0
+"P0125","Iacominus Bonerii","m",0,NA,NA,0
+"P0126","Aymonetus Tarterii","m",0,NA,NA,0
+"P0127","Roxeta","f",0,NA,NA,0
+"P0128","Michael de Valle Iudea","m",0,NA,"Valgioie",0
+"P0129","Nicoletus de Boteto","m",0,NA,NA,0
+"P0130","Iacobinus Bernardi","m",0,NA,"Villanova",0
+"P0131","Villelmus de Salamone","m",0,NA,NA,0
+"P0132","Iohanninus Garbil","m",0,"official","Coazze",0
+"P0134","Agnessona Soçça","f",0,NA,NA,0
+"P0135","Nicola de Fenestrelis","f",0,NA,NA,0
+"P0136","Albana","f",0,NA,NA,0
+"P0137","Iohannes de Falcona","m",0,NA,NA,0
+"P0138","Anthonia","f",0,NA,NA,0
+"P0139","Bonetus Faber","m",0,NA,NA,0
+"P0140","Hermelina","f",0,NA,NA,0
+"P0141","Philiponus de Molario","m",0,"official","Mollar",0
+"P0142","Iohanneta Bona","f",0,NA,NA,0
+"P0143","Consul","m",0,NA,NA,0
+"P0144","Agnexina","f",1,NA,NA,0
+"P0145","Iohannes de Agnessona","m",0,NA,NA,0
+"P0149","Aymonetus Neça","m",0,NA,NA,0
+"P0150","Bertolota","f",0,NA,"Ollasio",0
+"P0151","Andreas Maleysart","m",0,NA,"Ollasio",0
+"P0153","Guillelmus Goytro","m",0,"craftsman",NA,0
+"P0154","Michael Plancha","m",0,NA,NA,0
+"P0155","Stephanus Burgi","m",0,NA,"Villanova",0
+"P0156","Petrus Burgi","m",0,NA,"Villanova",0
+"P0157","Villelmus Burgi","m",0,NA,"Villanova",0
+"P0159","Aleysina","f",0,NA,NA,0
+"P0162","Margarita de Rosseto","f",0,NA,"Buffa",0
+"P0163","Michael Goytro","m",0,NA,"Buffa",0
+"P0164","Romana","f",0,NA,"Buffa",0
+"P0165","Villelmeta Goytrata","f",0,NA,NA,0
+"P0166","Felix uxor Reymundi Salinerii","f",0,NA,NA,0
+"P0167","Raymundus Salinerius","m",0,NA,NA,0
+"P0168","Francesia","f",0,NA,NA,0
+"P0174","Loxius","m",0,NA,NA,0
+"P0177","Aymonetus de Valle Iudea","m",0,NA,"Valgioie",0
+"P0178","Petrus","m",0,NA,NA,0
+"P0180","Iohanna","f",0,NA,NA,0
+"P0181","Aymonetus de Fomya","m",0,NA,NA,0
+"P0183","Martinus Pastre","m",0,"dissident minister","Vallis Lucerne",1
+"P0184","Alexandria","f",1,NA,"Villaretto",0
+"P0185","Villelma","f",1,NA,"Villaretto",0
+"P0186","Iohannes Delbacono","m",0,"dissident minister",NA,0
+"P0187","Michael Richaudi","m",0,NA,"Usseaux",0
+"P0188","Micheletus","m",0,NA,NA,0
+"P0189","(uxor Michaelis Richaudi)","f",0,NA,"Usseaux",0
+"P0190","Iohannes Valenconus","m",0,"dissident minister","Usseaux",0
+"P0191","Petrus Balbi junior","m",0,NA,"Coazze",0
+"P0192","Alaysia","f",0,NA,NA,0
+"P0193","Caterina","f",0,NA,NA,0
+"P0194","(filia Petri Balbi)","f",0,NA,NA,0
+"P0195","Amedeus de Conba Varino","m",0,NA,"Combravino",0
+"P0196","Stephanus Vec","m",0,NA,NA,0
+"P0197","Rollandus Vec","m",1,NA,NA,0
+"P0198","Bonetus","m",0,NA,NA,0
+"P0199","Caterina","f",0,NA,"Valgioie",0
+"P0200","(mulier)","f",0,NA,"Valgioie",0
+"P0201","Bertholinus Vec","m",0,NA,NA,0
+"P0202","Iacobinus Vec","m",0,NA,NA,0
+"P0203","(mater Vec)","f",0,NA,NA,0
+"P0204","(uxor Bertholini Vec)","f",0,NA,NA,0
+"P0205","(uxor Iacobini Vec)","f",0,NA,NA,0
+"P0206","Franciscus","m",0,"dissident minister",NA,1
+"P0207","Iacobinus","m",0,NA,NA,0
+"P0208","Martinus Dominici","m",0,NA,NA,0
+"P0209","Iohannes Bernardi","m",0,NA,NA,0
+"P0210","Martinus de Lacu","m",0,"dissident minister","Val Chisone",1
+"P0211","(mater Bernardi de Rosseto)","f",0,NA,NA,0
+"P0212","Iohanna","f",0,NA,NA,0
+"P0213","Aymonetus","m",0,NA,NA,0
+"P0214","Henrietus de Mondino","m",0,NA,NA,0
+"P0215","Vietus de Mondino","m",0,NA,NA,0
+"P0216","Marcheta","f",0,NA,NA,0
+"P0217","Iacobeta","f",0,NA,NA,0
+"P0218","(soror Henrieti et Vyeti de Mondino)","f",0,NA,NA,0
+"P0219","(soror Henrieti et Vyeti de Mondino)","f",0,NA,NA,0
+"P0220","Iohannes de Facio Ferrandi","m",0,NA,NA,0
+"P0222","Thomas","m",0,NA,NA,0
+"P0223","Iohannes Iordani","m",0,NA,NA,0
+"P0224","Iohannes Mulini","m",0,NA,"Sala",0
+"P0225","Addorna","f",0,NA,"Sala",0
+"P0226","Facius de Papono","m",0,NA,"Sala",0
+"P0227","Villelma","f",0,NA,"Sala",0
+"P0228","Iohanna de Bruneto","f",0,"craftsman","Sala",0
+"P0229","Marguerita Borsseta","f",0,NA,NA,0
+"P0230","Iohannes","m",0,NA,NA,0
+"P0231","Brunetus Plancha","m",1,NA,NA,0
+"P0232","(uxor Bruneti Plancha)","f",0,NA,NA,0
+"P0233","Iohannes Borrellati","m",0,NA,"Giaveno",0
+"P0234","Bruna","f",0,NA,NA,0
+"P0235","Merinetus Alberia","m",0,NA,"Villaretto",0
+"P0238","Petrus Gauterii","m",0,NA,NA,0
+"P0241","Petrus de Mondino","m",0,NA,NA,0
+"P0242","Marguerita","f",0,NA,NA,0
+"P0245","Facius Ferrandi","m",1,NA,NA,0
+"P0246","Vincentius","m",0,NA,"Coazze",0
+"P0247","Iohanna","f",0,NA,NA,0
+"P0248","Michael de Fomia","m",0,NA,NA,0
+"P0249","Iohannes Torenchi","m",0,NA,NA,0
+"P0250","(quidam antiquus de Valle Iudea)","m",0,NA,"Valgioie",0
+"P0251","(quidam iuvenis)","m",0,NA,NA,0
+"P0252","Villelmus Trut","m",0,NA,"Giaveno",0
+"P0254","(filia Marguerite Borssete)","f",0,NA,NA,0
+"P0255","(filia Marguerite Borssete)","f",0,NA,NA,0
+"P0256","Gaspardus de Villelma","m",0,NA,"Coazze",0
+"P0257","Andreas de Villelma","m",0,NA,"Coazze",0
+"P0258","Martinus","m",0,"dissident minister",NA,1
+"P0259","Petrus Gaspardus","m",0,NA,"Coazze",0
+"P0260","Gaspardus","m",0,NA,"Coazze",0
+"P0261","Andreeta","f",0,NA,NA,0
+"P0266","Iohanna","f",1,NA,NA,0
+"P0267","Villelmus Balbi","m",0,NA,NA,0
+"P0268","Marguerita","f",0,NA,"Forno di Coazze",0
+"P0269","Galiçona","f",0,NA,NA,0
+"P0270","Peyretus de Coazze","m",0,"dissident minister","Coazze",1
+"P0271","Bonetus de Boteto","m",0,NA,NA,0
+"P0272","Iaymen","m",0,"dissident minister",NA,1
+"P0273","Broxia","f",0,NA,NA,0
+"P0274","Nicoletus Feliçati","m",0,NA,"Villanova",0
+"P0275","Ronda","f",0,NA,NA,0
+"P0276","Bonetus de Girardo","m",1,NA,"Valgioie",0
+"P0277","(uxor Boneti de Girardo)","f",0,NA,NA,0
+"P0278","Petrus Guerssus","m",0,NA,NA,0
+"P0279","Iacobus","m",0,NA,NA,0
+"P0280","Villelmina","f",0,NA,NA,0
+"P0281","(mater Petri Gaspardi)","f",0,NA,NA,0
+"P0282","(frater Thome de Iohanne Iordani)","m",0,NA,NA,0
+"P0283","Bertandolo de Coazze","m",0,NA,"Brandolum",0
+"P0285","Mursa","f",0,NA,NA,0
+"P0286","Humbertus Baronus","m",0,NA,"Coazze",0
+"P0287","Petrus","m",0,NA,NA,0
+"P0288","Michael Torenchi","m",0,NA,NA,0
+"P0289","Iohannes de Ancesio","m",0,NA,NA,0
+"P0290","Aymoneta","f",0,NA,NA,0
+"P0291","Iohanna Bruncina","f",1,NA,NA,0
+"P0292","Iohannes Giraudi","m",0,NA,"Buffa",0
+"P0293","Poncetus","m",0,"dissident minister",NA,0
+"P0294","(mater Petri Rupphini)","f",1,NA,NA,0
+"P0295","Petrus","m",0,NA,NA,0
+"P0296","Brucinus","m",0,NA,NA,0
+"P0298","(uxor Petri Rupphini)","f",0,NA,NA,0
+"P0299","Poncetus","m",0,"dissident minister",NA,1
+"P0300","Guigo Constancius","m",0,NA,NA,1
+"P0301","Petrus","m",0,NA,NA,0
+"P0302","Petrus Bruni","m",0,NA,NA,0
+"P0303","Beatrix de Oddo","f",0,NA,NA,0
+"P0304","Aleysina","f",0,NA,NA,0
+"P0305","Villelmus","m",0,NA,NA,0
+"P0306","Diderius Oacy","m",0,NA,NA,0
+"P0307","Aleyseta Filiola","f",0,NA,NA,0
+"P0308","Broxia","f",0,NA,NA,0
+"P0310","Caterina","f",1,NA,"Coazze",0
+"P0311","Coletus","m",1,NA,NA,0
+"P0312","Laurencius","m",0,"dissident minister",NA,1
+"P0314","Robertus de Aprili de Barono","m",0,NA,"Selvaggio",0
+"P0315","Martinus","m",0,"dissident minister",NA,1
+"P0316","(socius Francisci)","m",0,NA,NA,1
+"P0317","Villelmus Oyaca","m",0,NA,NA,0
+"P0318","Petrus de Bonaudo","m",0,NA,NA,0
+"P0319","Boxius","m",0,NA,NA,0
+"P0320","Iohannonus","m",0,"dissident minister",NA,1
+"P0321","Galiçona de Sala","f",0,NA,NA,0
+"P0322","Agnessina","f",0,NA,NA,0
+"P0323","Marieta","f",0,NA,NA,0
+"P0324","Michael Burgi","m",0,NA,NA,0
+"P0325","Stephanus Bet","m",0,NA,"Selvaggio",0
+"P0326","(mater Aymoneti et Michaelis de Fomia)","f",0,NA,NA,0
+"P0327","Petrus de Girauda","m",0,NA,"Buffa",0
+"P0328","Agnessona","f",0,NA,NA,0
+"P0329","Petrus de Oddo","m",0,NA,NA,0
+"P0330","Anselmus","m",0,NA,NA,0
+"P0331","(uxor Petri de Mondino)","f",0,NA,NA,0
+"P0332","Petrus","m",0,NA,"Coazze",0
+"P0333","Iarssetus","m",0,NA,NA,0
+"P0336","Michael de Prato Ialato","m",0,"dissident minister","Pragelato",1
+"P0337","Michael Barberius","m",0,"official",NA,0
+"P0338","Hugonetus Gobaudi","m",0,NA,NA,0
+"P0339","Ysabella","f",0,NA,NA,0
+"P0340","Villelmus de Valle Iudea","m",0,NA,"Valgioie",0
+"P0341","Lambertus de Valle Iudea","m",0,NA,"Valgioie",0
+"P0342","Iacobina","f",0,NA,NA,0
+"P0343","Perona","f",0,NA,NA,0
+"P0344","Marguerita Bruntina","f",0,NA,"Pragelato",0
+"P0345","Agnessona Germana","f",0,NA,NA,0
+"P0346","Iohannes Borrelli","m",0,NA,NA,0
+"P0347","Iacobina","f",0,NA,NA,0
+"P0348","Beatrix","f",1,NA,NA,0
+"P0349","Bertinus Pacho","m",0,NA,"Selvaggio",0
+"P0350","Petitus Pacho","m",0,NA,"Selvaggio",0
+"P0351","Petrus Covaçati","m",0,NA,NA,0
+"P0352","Perrotus","m",0,NA,NA,0
+"P0353","Iohannes de Berthino","m",0,NA,NA,0
+"P0354","Iacobus de Monte Meliano","m",0,NA,NA,0
+"P0355","Petrus de Boyssono","m",0,NA,"Valgioie",0
+"P0356","Iohannes Rocheti","m",0,NA,"Coazze",0
+"P0358","(parvus homo antiquus)","m",0,"dissident minister",NA,1
+"P0359","Villelmetus Giraudi","m",0,NA,"Valgioie",0
+"P0360","(frater Petri de Boyssono)","m",0,NA,NA,0
+"P0361","(uxor Iohannis de Facio Ferrandi)","f",0,NA,NA,0
+"P0362","(soror Iohannis de Facio Ferrandi)","f",0,NA,NA,0
+"P0363","(soror Iohannis de Facio Ferrandi)","f",0,NA,NA,0
+"P0364","(quidam homo)","m",0,"dissident minister",NA,1
+"P0367","(quidam de Covaciis)","m",0,NA,"Coazze",0
+"P0368","Sandria","f",0,NA,NA,0
+"P0370","Petrus Soç","m",0,NA,NA,0
+"P0371","(frater Iohannis Borrelli de Iacobina)","m",0,NA,NA,0
+"P0372","Petrus Sacherii","m",0,NA,NA,0
+"P0373","(quedam amica Aleysete, de Villa Nova)","f",0,NA,NA,0
+"P0374","Caterina Bruneta","f",0,NA,NA,0
+"P0375","Domenga","f",0,NA,NA,0
+"P0376","Iohannes Rabelati","m",0,NA,NA,0
+"P0378","Iordana de Covaciis","f",0,NA,NA,0
+"P0379","(uxor Iohannis Borrelli)","f",0,NA,NA,0
+"P0380","Iohannes Tonerii","m",0,NA,NA,0
+"P0381","Petrus de Boyssono","m",0,NA,NA,0
+"P0382","(quidam alter)","m",0,NA,"Valgioie",0
+"P0383","Galiçona","f",0,NA,NA,0
+"P0384","Colonba","f",1,NA,"Valgioie",0
+"P0385","Iohanna","f",0,NA,NA,0
+"P0387","Villelmina","f",0,NA,NA,0
+"P0388","Mathondina","f",0,NA,"Avigliana",0
+"P0389","Ehufemia","f",0,NA,NA,0
+"P0390","Bellona","f",1,NA,NA,0
+"P0391","Marguerita","f",0,NA,NA,0
+"P0392","Martinetus","m",0,"dissident minister",NA,1
+"P0393","Ermeniona","f",0,NA,NA,0
+"P0395","Iacobina","f",0,NA,NA,0
+"P0398","(uxor Petri de Boyssono)","f",0,NA,NA,0
+"P0399","Petrus David","m",1,NA,NA,0
+"P0400","Iacobina","f",0,NA,NA,0
+"P0401","Laurencius de Collo","m",0,NA,"Avigliana",0
+"P0402","Iacobus Milla","m",0,NA,"Costa",0
+"P0405","Iohannes de Oddo","m",0,NA,"Mollar",0
+"P0407","Iohannes de Boyssono","m",0,NA,NA,0
+"P0408","Petrus de Iusto","m",0,NA,"Coazze",0
+"P0409","(frater Andree de Monte Meliano)","m",0,NA,NA,0
+"P0410","(quidam)","m",0,NA,NA,0
