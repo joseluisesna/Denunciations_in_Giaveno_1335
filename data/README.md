@@ -26,8 +26,8 @@ The dataset is stored in an RData file named data.RData. This file contains a li
 - `id`: ID of the congregation.
 - `label`: Description of the congregation, including details about the household where it was held.
 - `denouncer`: ID of the person who reported the congregation.
-- `participants`: IDs of the individuals participating in the congregation, separated by a hashtag symbol.
-- `ministers`: IDs of the Waldensian masters involved, separated by a hashtag symbol.
+- `participants`: IDs of the individuals participating in the congregation, separated by a hashtag (#) symbol.
+- `ministers`: IDs of the individual(s) acting as minister(s) of the congregation, separated by a hashtag (#) symbol.
 
 `groups`: A 68 x 3 data frame with details about the collective entities reported. The columns are:
 - `id:` ID of the group.
