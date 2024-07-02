@@ -247,7 +247,13 @@ redep2[,keypeople := ifelse(id == 'P0053','Iohannes Guaterii',
                             ifelse(id == 'P0196','Stephanus Vet','Other'))]
 redep2[,keypeople := factor(keypeople,levels=c('Iohannes Guaterii','Stephanus Vet','Other'))]
 
-fig <- ggplot(data=redep2) +
+tiff(filename="FigB1.tiff",
+     width=25, height=14,units="cm", 
+     compression="lzw",
+     bg="white",
+     res=1000
+)
+ggplot(data=redep2) +
   geom_violin(aes(x=redeposition,y=accused,group=redeposition),fill='gray',alpha=.2) +
   geom_line(aes(x=redeposition2,y=accused,group=id,color=keypeople),alpha=2/3) +
   geom_point(aes(x=redeposition2,y=accused,color=keypeople,shape=keypeople),size=3) +
@@ -258,8 +264,7 @@ fig <- ggplot(data=redep2) +
   scale_color_manual(values=c('Iohannes Guaterii'='red','Stephanus Vet'='red','Other'='royalblue')) +
   scale_shape_manual(values=c('Iohannes Guaterii'=15,'Stephanus Vet'=17,'Other'=10)) +
   theme(legend.position = 'top',strip.background = element_rect(fill='black'),strip.text=element_text(color='white'))
-
-ggsave("FigB1.png", fig, width = 10, height = 6)
+dev.off()
 
 ########################################################################################################################
 

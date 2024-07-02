@@ -38,6 +38,7 @@ centralities[,N := sqrt(N)] # We use the square root version
 corrval <- cor.test(centralities$N,centralities$congEigen)
 corrval$estimate
 
+# Visualization
 plot1 <- ggplot(centralities,aes(x=N,y=congEigen)) + 
   geom_point(size=3,alpha=1/3) + 
   stat_smooth(method = "loess",color='grey10',linetype='dashed') +
@@ -53,10 +54,15 @@ dens2 <- ggplot(centralities,aes(x=congEigen)) +
   theme_void() + 
   theme(legend.position = "none") + 
   coord_flip()
-ggsave('FigC1.png',
-       dens1 + plot_spacer() + plot1 + dens2 + 
-         plot_layout(ncol=2,nrow=2,widths=c(4,1),heights=c(1,4)),
-       width = 7, height = 4.5)
+
+tiff(filename="FigC1.tiff",
+     width=20, height=14,units="cm", 
+     compression="lzw",
+     bg="white",
+     res=1000
+)
+dens1 + plot_spacer() + plot1 + dens2 + plot_layout(ncol=2,nrow=2,widths=c(4,1),heights=c(1,4))
+dev.off()
 
 # The following 6 attributes (denunciations received, summoned, deposed, re-deposed, centrality, denouncesRec, denouncesSent, tortured) are zero at the start
 actors$tortured <- actors$denouncesRec <- actors$redeposed <- actors$deposed <- actors$summoned <- 0 
