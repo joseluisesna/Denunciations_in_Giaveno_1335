@@ -4,7 +4,7 @@
 [![ERC funding](https://img.shields.io/badge/funding-ERC-green)](https://cordis.europa.eu/project/id/101000442)
 
 This repository contains the data and code to replicate the results of the article:
-- Estévez, J. L., Salihović, D., & Sgourev. S. V. (2024). 'Endogenous Dynamics of Denunciation: Evidence from an Inquisitorial Trial'. Under Review.
+- Estévez, J. L., Salihović, D., & Sgourev. S. V. (2024). 'Endogenous Dynamics of Denunciation: Evidence from an Inquisitorial Trial'. _PNAS Nexus_.
 
 ## Purpose of the repository
 
@@ -33,11 +33,12 @@ The analysis relies on several R packages, listed below with their respective ve
 
 ## File list
 
-The repository includes six R scripts and a data folder:
+The repository includes seven R scripts and a data folder:
 - [1_Castellario_data_exploration.R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/1_Castellario_data_exploration.R)
 - [2_Castellario_kinship_ties_and_congregations.R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/2_Castellario_kinship_ties_and_congregations.R)
 - [3_Castellario_preliminary_analyses.R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/3_Castellario_preliminary_analyses.R)
 - [4_Castellario_DyNAM_REM_analyses.R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/4_Castellario_DyNAM_REM_analyses.R)
+- [4_Castellario_DyNAM_REM_analyses (time in days).R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/4_Castellario_DyNAM_REM_analyses%20(time%20in%20days).R)
 - [5_Castellario_descriptive_table.R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/5_Castellario_descriptive_table.R)
 - [6_Saturation_graph.R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/6_Saturation_graph.R)
 - [data](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/tree/main/data)
@@ -48,6 +49,7 @@ The repository includes six R scripts and a data folder:
 - Install the necessary packages using the specified versions.
 - Load the data from the data/data.RData file.
 - Run the R scripts in the order listed to replicate the analysis and results.
+- The scripts [4_Castellario_DyNAM_REM_analyses.R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/4_Castellario_DyNAM_REM_analyses.R) and [4_Castellario_DyNAM_REM_analyses (time in days).R](https://github.com/joseluisesna/Denunciations_in_Giaveno_1335/blob/main/4_Castellario_DyNAM_REM_analyses%20(time%20in%20days).R) produce the same results, differing only in the scale of time and the intercept of eventual results, which are expressed either in seconds or days. In the article, we present the results expressed in days.
 
 ## Source
 
