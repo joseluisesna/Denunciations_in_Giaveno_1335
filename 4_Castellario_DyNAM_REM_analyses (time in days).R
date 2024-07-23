@@ -503,7 +503,4 @@ write.table(choice2,'DyNAM choice (denunciations to family).csv',sep=',',row.nam
 write.table(choice3,'DyNAM choice (denunciations to congregation fellows).csv',sep=',',row.names=FALSE)
 write.table(choiceExt,'DyNAM choice (Extra).csv',sep=',',row.names=FALSE)
 
-# Save image
-save.image('data/data5.RData')
-
 ########################################################################################################################
