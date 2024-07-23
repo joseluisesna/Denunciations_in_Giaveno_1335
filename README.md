@@ -62,7 +62,7 @@ This research received support from the European Research Council (ERC), under t
 
 ## Citation
 
-- Estévez, J. L., Salihović, D., & Sgourev, S. V. (2024). 'Endogenous Dynamics of Denunciation: Evidence from an Inquisitorial Trial'. Under Review.
+- Estévez, J. L., Salihović, D., & Sgourev, S. V. (2024). 'Endogenous Dynamics of Denunciation: Evidence from an Inquisitorial Trial'. _PNAS Nexus_.
 
 ## Contact information
 
