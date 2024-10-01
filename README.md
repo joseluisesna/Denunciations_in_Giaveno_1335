@@ -4,7 +4,7 @@
 [![ERC funding](https://img.shields.io/badge/funding-ERC-green)](https://cordis.europa.eu/project/id/101000442)
 
 This repository contains the data and code to replicate the results of the article:
-- Estévez, J. L., Salihović, D., & Sgourev. S. V. (2024). 'Endogenous Dynamics of Denunciation: Evidence from an Inquisitorial Trial'. _PNAS Nexus_, pgae340. https://doi.org/10.1093/pnasnexus/pgae340
+- Estévez, J. L., Salihović, D., & Sgourev. S. V. (2024). 'Endogenous Dynamics of Denunciation: Evidence from an Inquisitorial Trial'. _PNAS Nexus_, _3_(9), pgae340. https://doi.org/10.1093/pnasnexus/pgae340
 
 ## Purpose of the repository
 
@@ -64,7 +64,7 @@ Open access funded by Helsinki University Library.
 
 ## Citation
 
-- Estévez, J. L., Salihović, D., & Sgourev. S. V. (2024). 'Endogenous Dynamics of Denunciation: Evidence from an Inquisitorial Trial'. _PNAS Nexus_, pgae340. https://doi.org/10.1093/pnasnexus/pgae340
+- Estévez, J. L., Salihović, D., & Sgourev. S. V. (2024). 'Endogenous Dynamics of Denunciation: Evidence from an Inquisitorial Trial'. _PNAS Nexus_, _3_(9), pgae340. https://doi.org/10.1093/pnasnexus/pgae340
 
 ## Contact information
 
